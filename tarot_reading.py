@@ -12,7 +12,6 @@ class Card:
         self.card = deck[random.randint(0,78)]
         self.name = self.card['name']
         self.type = self.card['type']
-        self.desc = self.card['desc']
         if random.randint(0,2) == 0:
             self.meaning = self.card['meaning_up']
             self.orientation = "(Right Side Up)"
