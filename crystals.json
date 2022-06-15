@@ -1,0 +1,207 @@
+{
+  "total": 40,
+  "crystals":[
+    
+    {
+      "crystal_name": "sodalite",
+      "descr": "a royal blue stone with white flecks and white marbling",
+      "meaning": "communication, self-expression, and truth"
+    },
+    {
+      "crystal_name": "clear quartz",
+      "descr": "a clear stone with high reflectivity",
+      "meaning": "awareness, amplifying energy, and clarity"
+    },
+    {
+      "crystal_name": "rose quartz",
+      "descr": "a light pink stone with white flecks and white marbling",
+      "meaning": "unconditional love, emotional healing, and compassion"
+    },
+    {
+      "crystal_name": "aventurine",
+      "descr": "a slightly opaque sea green stone visually similar to jade",
+      "meaning": "prosperity, well-being, and good luck"
+    },
+    {
+      "crystal_name": "red jasper",
+      "descr": "a bright red stone with few flecks usually colored copper or black",
+      "meaning": "strength, honesty, and stability"
+    },
+    {
+      "crystal_name": "snowflake obsidian",
+      "descr": "a black stone with many white flecks scattered throughout",
+      "meaning": "spiritual protection, transmutation, and acceptance"
+    },
+    {
+      "crystal_name": "citrine",
+      "descr": "a light orange stone with white and yellow flecks",
+      "meaning": "prosperity, positive energy, and clearing"
+    },
+    {
+      "crystal_name": "amethyst",
+      "descr": "a purple stone with white flecks and white marbling",
+      "meaning": "intuition, balance, and higher wisdom"
+    },
+    {
+      "crystal_name": "amazonite",
+      "descr": "a turquoise stone wiht white, yellow, and brown flecks and small white marbling",
+      "meaning": "confidence, self-love, and creative expression"
+    },
+    {
+      "crystal_name": "tiger's eye",
+      "descr": "a light brown stone with brown and yellow striping resembling a tiger",
+      "meaning": "willpower, warrior's spirit, and self-motivation"
+    },
+    {
+      "crystal_name": "black tourmaline",
+      "descr": "a black stone with little flecks or marbling; it's raw form resembles a rough log",
+      "meaning": "protection, banishing, and security"
+    },
+    {
+      "crystal_name": "carnelian",
+      "descr": "a bright red orange stone with little white and brown marbling",
+      "meaning": "passion, sexual energy, and creativity"
+    },
+    {
+      "crystal_name": "hematite",
+      "descr": "a chrome-looking stone with a mirror-like surface, similar in appearance to pyrite",
+      "meaning": "courage, inner strength, and grounding"
+    },
+    {
+      "crystal_name": "malachite",
+      "descr": "an emerald green stone with lots of clustered dark green striping",
+      "meaning": "wealth, beauty, and individuality"
+    },
+    {
+      "crystal_name": "dalmation stone",
+      "descr": "an off white stone with black and beige spots resembling a dalmation dog",
+      "meaning": "loyalty, family bonds, and connection with animals"
+    },
+    {
+      "crystal_name": "angelite",
+      "descr": "a sky blue stone with few white flecks",
+      "meaning": "divine love, gentleness, and healing"
+    },
+    {
+      "crystal_name": "lepidolite",
+      "descr": "a pink and purple stone with brown and white flecks",
+      "meaning": "emotional balance, stress relief, and spiritual growth"
+    },
+    {
+      "crystal_name": "lapis lazuli",
+      "descr": "a royal blue stone with green, brown, and white flecks",
+      "meaning": "psychic vision, celestial energy, and nobility"
+    },
+    {
+      "crystal_name": "serpentine",
+      "descr": "a light olive colored stone with dark brown spots",
+      "meaning": "hidden mysteries, observation, and instinct"
+    },
+    {
+      "crystal_name": "black onyx",
+      "descr": "a black stone with very few light flecks",
+      "meaning": "blocking negativity, patience, and determination"
+    },
+    {
+      "crystal_name": "howlite",
+      "descr": "a white stone with grey marbling",
+      "meaning": "calming, compromise, and sleep"
+    },
+    {
+      "crystal_name": "blue goldstone",
+      "descr": "a dark blue, almost black stone with tons of sparkly golden flecks throughout",
+      "meaning": "inspiration, optimism, and dreaming"
+    },
+    {
+      "crystal_name": "rhodonite",
+      "descr": "a pink stone with large dark black patches",
+      "meaning": "forgiveness, relationships, and overcoming"
+    },
+    {
+      "crystal_name": "fluorite",
+      "descr": "a light green stone with an opal-like sheen",
+      "meaning": "renewal, harmony, and energizing"
+    },
+    {
+      "crystal_name": "pyrite",
+      "descr": "a silver metal-toned stone with some naturally square formations",
+      "meaning": "shielding, success, and money"
+    },
+    {
+      "crystal_name": "sunstone",
+      "descr": "a light orange stone with white flecks",
+      "meaning": "leadership, generosity, and blessings"
+    },
+    {
+      "crystal_name": "blue aventurine",
+      "descr": "a sky blue stone with white stripes and flecks",
+      "meaning": "hope, clear speech, and empathy"
+    },
+    {
+      "crystal_name": "selenite",
+      "descr": "a clear stone with white marbling",
+      "meaning": "purification, peace, and enlightenment"
+    },
+    {
+      "crystal_name": "prehnite",
+      "descr": "a light green stone with black and white flecks",
+      "meaning": "psychic awareness, self-care, and discernment"
+    },
+    {
+      "crystal_name": "moss agate",
+      "descr": "a teal colored stone with white and light blue marbling and gold flecks",
+      "meaning":  "contentment, connection with nature, and abundance"
+    },
+    {
+      "crystal_name": "red goldstone",
+      "descr": "a red stone with lots of sparkly golden flecks throughout",
+      "meaning": "happiness, ingenuity, and boldness"
+    },
+    {
+      "crystal_name": "garnet",
+      "descr": "a dark cherry purple stone with brown flecks",
+      "meaning": "self-esteem, victory, and eternal love"
+    },
+    {
+      "crystal_name": "moonstone",
+      "descr": "a white stone with black flecks and an opal sheen",
+      "meaning": "intuition, sensuality, and safe travel"
+    },
+    {
+      "crystal_name": "leopardskin jasper",
+      "descr": "an orange red stone with lots of spots and flecks of varying warm and dark colors, resembling leopard skin",
+      "meaning": "adaptability, spiritual journeys, and animal intuition"
+    },
+    {
+      "crystal_name": "apatite",
+      "descr": "a teal stone with light blue and btown flecks",
+      "meaning": "energetic clearing, psychic attunement, and authenticity"
+    },
+    {
+      "crystal_name": "blue calcite",
+      "descr": "a baby blue stone with white marbling",
+      "meaning": "serenity, restoration, and releasing stress"
+    },
+    {
+      "crystal_name": "ruby fuchsite",
+      "descr": "a light green stone with small fushcia spots and white flecks and marbling",
+      "meaning": "integration, friendship, and trust"
+    },
+    {
+      "crystal_name": "mahogany obsidian",
+      "descr": "a black stone with deep maroon marbling that resembles mahogany wood",
+      "meaning": "earth energy, personal power, and integrity"
+    },
+    {
+      "crystal_name": "labradorite",
+      "descr": "a teal stone with an opal sheen",
+      "meaning": "awakening joy, interdimensionality, and innovation"
+    },
+    {
+      "crystal_name": "unakite",
+      "descr": "a bright red stone with turtle green clusters and stripes",
+      "meaning": "attraction, resolving conflict, and healing the past"
+    }
+    
+  ]
+}

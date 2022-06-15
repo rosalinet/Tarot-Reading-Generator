@@ -1,0 +1,39 @@
+{
+    "spreads":[
+        {
+            "spreadnameshort": "ppf",
+            "spreadname": "The 'Past', 'Present', and 'Future' Spread",
+            "firstcard": "✧ The first card represents elements from the past that AFFECT your current situation.",
+            "secondcard": "✧ The second card describes the current STATUS of the situation.",
+            "thirdcard": "✧ The third card gives insight into a POSSIBLE OUTCOME of the situation."
+        },
+        {
+            "spreadnameshort": "mbs",
+            "spreadname": "The 'Mind', 'Body', and 'Soul' Spread",
+            "firstcard": "✧ The first card represents your current logic, reasoning, mental health, and rationality.",
+            "secondcard": "✧ The second card represents your current health, fitness, sexuality, and activity.",
+            "thirdcard": "✧ The third card represents your current emotions, creativity, spirituality, and love."
+        },
+        {
+            "spreadnameshort": "swa",
+            "spreadname": "The 'Strengths', 'Weaknesses', and 'Advice' Spread",
+            "firstcard": "✧ The first card highlights your strengths.",
+            "secondcard": "✧ The second card highlights your weaknesses.",
+            "thirdcard": "✧ The third card suggests a possible action or approach."
+        },
+        {
+            "spreadnameshort": "yyr1",
+            "spreadname": "The Past, Present, and Future Spread",
+            "firstcard": "✧ The first card represents elements from the past that AFFECT your current situation.",
+            "secondcard": "✧ The second card describes the current STATUS of the situation.",
+            "thirdcard": "✧ The third card gives insight into a POSSIBLE OUTCOME of the situation."
+        },
+        {
+            "spreadnameshort": "yyr2",
+            "spreadname": "The Past, Present, and Future Spread",
+            "firstcard": "✧ The first card represents elements from the past that AFFECT your current situation.",
+            "secondcard": "✧ The second card describes the current STATUS of the situation.",
+            "thirdcard": "✧ The third card gives insight into a POSSIBLE OUTCOME of the situation."
+        }
+    ]
+}

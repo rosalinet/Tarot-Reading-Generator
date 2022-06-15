@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Fredoka+One&family=Jua&family=Patrick+Hand&family=Press+Start+2P&family=Syne+Tactile&family=VT323&display=swap');
+
+
+body{
+    background: rgb(54, 15, 79) url(https://raw.githubusercontent.com/rosalinet/Tarot-Reading-Generator/main/images/bg-dark.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken(10%);
+    text-align:center;
+    font-family: 'VT323', monospace; color:white;
+    font-size: 40px;
+    margin: 10px;
+}
+a{
+    color:pink;
+}
+p{
+    font-size: 25px;
+    margin:10px;
+    font-family: 'VT323', monospace; color: rgb(255, 255, 210);
+
+}
+h1{
+    font-size: 40px;
+    font-weight: lighter;
+    margin:10px;
+    font-family: 'VT323', monospace; color: pink;
+
+
+}
+h2{
+    font-size: 30px;
+    font-weight: lighter;
+    font-style:italic;
+    margin:10px;
+    font-family: 'VT323', monospace; color: rgb(182, 149, 192);
+
+
+}
+img {
+    margin:10px 0 10px 0;
+    width: 500px;
+}
+
+input{
+    width: 500px;
+    height: 50px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    font-family: "VT323", monospace; color: rgb(67, 29, 94);
+    text-align: center;
+    font-size: 1em
+}
+
+input:focus{
+    border: solid 5px #00ddeeff;
+    outline: none;
+}
+
+#ppfbutton{
+    background-color: rgb(30, 18, 36);
+    color:white;
+    width: auto;
+}
+#ppfbutton:hover{
+    background-color: rgb(134, 80, 127);
+    cursor:pointer;
+}
+
+#mbsbutton{
+    background-color: rgb(30, 18, 36);
+    color:white;
+    width: auto;
+}
+#mbsbutton:hover{
+    background-color: rgb(134, 80, 127);
+    cursor:pointer;
+}
+
+#homebutton{
+    background-color: rgb(30, 18, 36);
+    color:white;
+    width: auto;
+}
+#homebutton:hover{
+    background-color: rgb(134, 80, 127);
+    cursor:pointer;
+}

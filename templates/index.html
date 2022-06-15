@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Fredoka+One&family=Jua&family=Patrick+Hand&family=Press+Start+2P&family=Syne+Tactile&family=VT323&display=swap" rel="stylesheet">
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>Tarot Reading Generator by Rose Tep</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}">
+        
+    </head>
+
+    <body>
+        
+        
+        {% block content %}
+        <img width="500" src="https://raw.githubusercontent.com/rosalinet/Tarot-Reading-Generator/main/images/mainimg.png">
+        <br>
+        
+        <h1 style="font-size:50px; color: white">Welcome to the Tarot Reading Generator!</h1>
+        <div>
+            <img height="20" src="https://i7.glitter-graphics.org/pub/697/697577wcowvfyq3s.gif">
+        </div>
+        <p style="font-size: 35px">
+        Each spread can be <i>SITUATIONAL</i> or <i>GENERAL</i>. For a situational reading, please think of a particular situation in your life carefully before choosing your spread.
+        When ready, select which spread you'd like to generate! <br>
+        </p>
+        
+        <p style="font-style: italic" >(You can read about each type of spread below the buttons!)</p>
+        
+        <form action="ppf" method="post">
+        <input type="submit" name="ppf" value="Past, Present, Future" id="ppfbutton">
+        </form>
+        
+        <form action="mbs" method="post">
+            <input type="submit" name ="draw" value="Mind, Body, Soul" id="mbsbutton">
+        </form>
+        
+        <br><br><br><br><br>
+        <h1>About the Different Spreads</h1>
+        <h2> ─── ･ ｡ﾟ☆: *.☽ The 'Past, Present, and Future' Spread .* :☆ﾟ. ─── </h2>
+        <p>
+        ✧ The first card represents elements from the past that AFFECT your current situation. <br>
+        ✧ The second card describes the current STATUS of the situation. <br>
+        ✧ The third card gives insight into a POSSIBLE OUTCOME of the situation. <br>
+        <br>
+        </p>
+        <h2> ─── ･ ｡ﾟ☆: *.☽ The 'Mind, Body, and Soul' Spread .* :☆ﾟ. ─── </h2>
+        <p>
+        ✧ The first card represents your current logic, reasoning, mental health, and rationality. <br>
+        ✧ The second card represents your current health, fitness, sexuality, and activity. <br>
+        ✧ The third card represents your current emotions, creativity, spirituality, and love. <br>
+        <br>
+        </p>
+        <h2> ─── ･ ｡ﾟ☆: *.☽ The 'Strengths, Weaknesses, and Advice' Spread .* :☆ﾟ. ─── </h2>
+        <p>
+        ✧ The first card highlights your strengths. <br>
+        ✧ The second card highlights your weaknesses. <br>
+        ✧ The third card suggests a possible action or approach. <br>
+        <br>
+        </p>
+        <h2> ─── ･ ｡ﾟ☆: *.☽ The 'You, Your Partner, and Your Relationship' Spread (Version 1) .* :☆ﾟ. ─── </h2>
+        <p>
+        ✧ The first card describes what you want in the relationship. <br>
+        ✧ The second card describes what your partner wants in the relationship. <br>
+        ✧ The third card describes where the relationship could potentially be heading. <br>
+        <br>
+        </p>
+        <h2> ─── ･ ｡ﾟ☆: *.☽ The 'You, Your Partner, and Your Relationship' Spread (Version 2) .* :☆ﾟ. ─── </h2>
+        <p>
+        ✧ The first card describes what brings you both together. <br>
+        ✧ The second card describes what pulls you both apart. <br>
+        ✧ The third card describes what needs your attention. <br>
+        </p>
+        <br>
+        
+        Follow me on <a href="https://github.com/rosalinet">Github</a>!<br>
+        <img width="500" src="https://raw.githubusercontent.com/rosalinet/Tarot-Reading-Generator/main/images/witchmelarge.png">
+        <br>
+
+        {% endblock %}
+
+    </body>
+</html>
